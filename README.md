@@ -33,10 +33,10 @@ It provides insights into **sales performance, product contribution, regional an
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page] [ 
+![Home Page] https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/sales%20dashboard%20page%201.PNG 
 
 ### 📈 Sales Overview  
-![Sales Overview](URL_TO_IMAGE)  
+![Sales Overview]  
 
 ### 📦 Product Performance  
 ![Product Performance](URL_TO_IMAGE)  
