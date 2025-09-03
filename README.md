@@ -33,21 +33,21 @@ It provides insights into **sales performance, product contribution, regional an
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page] https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/sales%20dashboard%20page%201.PNG 
+Home Page: https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/sales%20dashboard%20page%201.PNG 
 
 ### 📈 Sales Overview  
-![Sales Overview] https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/sales%20dashboard%20page%202.PNG
+Sales Overview: https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/sales%20dashboard%20page%202.PNG
 
 ### 📦 Product Performance  
-![Product Performance]   
+Product Performance: https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/Sales%20Dashboard%20page%203.PNG 
 
 ### 🎯 Drivers & Segments  
-![Drivers & Segments](URL_TO_IMAGE)  
+Drivers & Segments: https://github.com/abdulqadirhuzefa/Sales-Dashboard-in-Power-BI/blob/main/Sales%20Dashboard%20page%204.PNG 
 
 ---
 
 ## 🔗 Live Dashboard  
-👉 [View the published Power BI Report](PASTE_YOUR_POWERBI_PUBLIC_LINK_HERE)  
+👉 View the published Power BI Report : https://app.powerbi.com/view?r=eyJrIjoiZDk1YTNmYmItMDUwNS00ZTQ0LWE2YzAtYzI4ODNjYTc3ZjcxIiwidCI6IjI2ZWUzYjJhLWIwY2QtNGY3My1hZmJlLTk5ZmU3NzY3ZWRlZCIsImMiOjl9 
 
 ---
 
@@ -58,14 +58,6 @@ It provides insights into **sales performance, product contribution, regional an
 
 ---
 
-## 📂 Repository Structure  
-- `README.md` → Project documentation  
-- `Screenshots/` → Contains dashboard screenshots  
-- `Dataset/` → Source data (if shareable)  
-- `PBIX File` → Power BI file (optional to upload if allowed)  
-
----
-
 ## 🙌 Acknowledgements  
 This dashboard was built as part of my **learning journey in Business Intelligence and Analytics**.  
 Special thanks to mentors, peers, and the Power BI community for inspiration and support.  
@@ -73,8 +65,7 @@ Special thanks to mentors, peers, and the Power BI community for inspiration and
 ---
 
 ## 📬 Connect with Me  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
-- **GitHub**: [Your GitHub Profile Link]  
+- **LinkedIn**: https://www.linkedin.com/in/abdulqadir-huzefa-5bb831375/   
 
 ---
 
